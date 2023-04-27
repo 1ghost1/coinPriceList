@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoinActivity">
+        <attr name="coinName" format="string" />
+        <attr name="badgeURL" format="string" />
+    </declare-styleable>
+
+</resources>
